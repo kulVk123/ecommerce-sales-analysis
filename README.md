@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis
+# E-Commerce Customer Churn Analysis
 
 This project analyzes e-commerce sales data using MySQL.
 
